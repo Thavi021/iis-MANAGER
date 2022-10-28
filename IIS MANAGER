@@ -1,0 +1,19 @@
+Internet Information Services (IIS) Manager for Remote Administration provides end users and administrators with the ability to securely manage remote IIS servers (version 7 and above) from Windows clients (XP and above). A Web server administrator can perform almost all IIS administrative tasks while site owners and developers that have been delegated administrative privileges can use IIS Manager for Remote Administration to make allowed changes to the remote Web server. IIS Manager for Remote offers the same user interface available on Windows Server to ensure a more consistent experience when managing and configuring the Web server.
+Manage remote IIS servers more securely
+IIS Manager for Remote Administration allows users to more securely manage remote Web sites and applications on IIS servers over a firewall-friendly connection using HTTP over SSL.
+
+Administer local and remote Web servers through a consistent interface
+IIS Manager for Remote Administration allows you to manage Web server features and individual sites through the same, familiar user interface as IIS Manager on Windows Server.
+
+Update your remote administration clients automatically
+IIS Manager for Remote Administration ensures that users are automatically informed of new features added to the remote IIS Web server so that they can download the necessary updates locally to manage those features.
+
+Features
+Remotely manages IIS from Windows clients (XP and above)
+Connects directly to a Web server, Web site, or Web application
+Installs even when you don't have IIS on the local machine
+Allows multiple simultaneous connections
+Supports delegated administration to Web sites and Web applications so owners can connect to and manage their own site directly
+Familiar and easy to use administration tool
+Supports HTTP over SSL for more secure management
+Automatically downloads features to the local IIS Manager for Remote Administration console to match features newly installed on the remote Web server.
